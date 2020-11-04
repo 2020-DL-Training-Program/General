@@ -10,4 +10,6 @@
 - [3D ML](https://www.ctolib.com/timzhang642-3D-Machine-Learning.html)
 - [CNN training skill](https://github.com/davidcpage/cifar10-fast/blob/master/bag_of_tricks.ipynb)
 - [Connected Paper](https://www.connectedpapers.com/)
-- - A useful tool to find related paper
+  - A useful tool to find related paper
+- [3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q)
+  - A youtube channel contains the talks related 3D
